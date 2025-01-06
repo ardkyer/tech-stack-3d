@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tech-stack-3d/static/css/main.6063c591.css",
+    "main.js": "/tech-stack-3d/static/js/main.65bd7dcc.js",
+    "static/js/488.ab7dbcc5.chunk.js": "/tech-stack-3d/static/js/488.ab7dbcc5.chunk.js",
+    "index.html": "/tech-stack-3d/index.html",
+    "main.6063c591.css.map": "/tech-stack-3d/static/css/main.6063c591.css.map",
+    "main.65bd7dcc.js.map": "/tech-stack-3d/static/js/main.65bd7dcc.js.map",
+    "488.ab7dbcc5.chunk.js.map": "/tech-stack-3d/static/js/488.ab7dbcc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6063c591.css",
+    "static/js/main.65bd7dcc.js"
+  ]
+}
