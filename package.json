@@ -7,6 +7,7 @@
     "3d-force-graph": "^1.74.5",
     "cra-template": "1.2.0",
     "force-graph": "^1.47.2",
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
@@ -17,8 +18,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://ardkyer.github.io/tech-stack-3d",
   "eslintConfig": {
     "extends": [
       "react-app",
